@@ -1,8 +1,0 @@
-CREATE SCHEMA SENDAS;
-USE SENDAS;
-
-CREATE TABLE Senderos (
-    ID VARCHAR(10),
-    Denominacion VARCHAR(255),
-    Itinerario TEXT
-);
