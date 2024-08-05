@@ -1,4 +1,4 @@
-# Extracción de Datos y Análisis Climático en Python / Data Extraction and Climate Analysis in Python
+# Extracción de Datos y Análisis Climático en Python / Data Extraction and Climate Analysis in Python 🍁
 
 Este repositorio contiene el código para dos tareas principales: la extracción de datos de senderos de una página web y la obtención de datos climatológicos de la Sierra de Gredos utilizando la API de AEMET.
 
@@ -56,7 +56,7 @@ Si tienes alguna pregunta o necesitas más información, no dudes en contactarme
 
 ---
 
-# Data Extraction and Climate Analysis in Python
+# Data Extraction and Climate Analysis in Python 🍁
 
 This repository contains code for two main tasks: extracting trail data from a web page and obtaining climate data for the Sierra de Gredos using the AEMET API.
 
